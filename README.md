@@ -1,6 +1,12 @@
 # ApachePulsar-SpringBoot
 Its Work in progress project
+
+
+Change SERVICE_URL value of running pulsar instance 
+Ex: SERVICE_URL = "pulsar://localhost:6650";
+
 Apache Pulsar in Spring Boot Implementations for Producer and Cosumer creation.
+
 POST http://localhost:8080/pulsar/createProducer
 {
   "producerName": "Shared-producer1",
