@@ -2,7 +2,7 @@
 Its Work in progress project
 
 
-Change SERVICE_URL value of running pulsar instance 
+Change SERVICE_URL value of running pulsar instance in PulsarClientImpl file
 Ex: SERVICE_URL = "pulsar://localhost:6650";
 
 Apache Pulsar in Spring Boot Implementations for Producer and Cosumer creation.
